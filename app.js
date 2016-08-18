@@ -1,5 +1,8 @@
 /**
  * Created by hackpoint on 16/8/15.
+ * 转载请注明出处
+ * qq:731931167
+ * 使用jQuery库。
  */
 
 /**
